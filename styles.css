@@ -4,9 +4,9 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-image: url('https://media.istockphoto.com/id/1458664845/photo/learning-math.webp?a=1&b=1&s=612x612&w=0&k=20&c=M1H5B3JUIWMNTk_94qJkj3U9wiYVh8GhSQQpURhfcN4=');
+    background-image: url('https://i.pinimg.com/236x/df/f4/36/dff4367e6098fb9ed31a154b7fa198e1.jpg');
     background-position: center;
-    
+    background-image: no-repeat  ;
     display: flex;
     justify-content: space-around;
     margin-top: 30px;
